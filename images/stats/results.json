@@ -1,85 +1,5 @@
 [
     {
-        "number": 7382,
-        "author": "ack-bot",
-        "date_created": "2026-01-07T23:40:48Z",
-        "time_to_merge": 667,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7383,
-        "author": "ack-bot",
-        "date_created": "2026-01-07T23:42:01Z",
-        "time_to_merge": 1155,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7384,
-        "author": "ack-bot",
-        "date_created": "2026-01-07T23:42:22Z",
-        "time_to_merge": 1261,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7385,
-        "author": "ack-bot",
-        "date_created": "2026-01-07T23:46:54Z",
-        "time_to_merge": 762,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7386,
-        "author": "ack-bot",
-        "date_created": "2026-01-08T00:03:02Z",
-        "time_to_merge": 2033,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7387,
-        "author": "streamnativebot",
-        "date_created": "2026-01-08T00:29:14Z",
-        "time_to_merge": 6768,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7388,
-        "author": "ack-bot",
-        "date_created": "2026-01-08T05:00:38Z",
-        "time_to_merge": 1154,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7389,
-        "author": "gl-distribution-oc",
-        "date_created": "2026-01-08T11:35:16Z",
-        "time_to_merge": 3918,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7390,
-        "author": "ack-bot",
-        "date_created": "2026-01-08T17:50:06Z",
-        "time_to_merge": 1785,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 7391,
-        "author": "ack-bot",
-        "date_created": "2026-01-08T17:51:08Z",
-        "time_to_merge": 970,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
         "number": 7392,
         "author": "ack-bot",
         "date_created": "2026-01-08T17:52:57Z",
@@ -792,10 +712,90 @@
         "interaction": "none"
     },
     {
+        "number": 7489,
+        "author": "BorekZnovustvoritel",
+        "date_created": "2026-02-09T13:49:13Z",
+        "time_to_merge": 155471,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 7491,
+        "author": "mangelajo",
+        "date_created": "2026-02-09T17:39:12Z",
+        "time_to_merge": 61535,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
         "number": 7492,
         "author": "ack-bot",
         "date_created": "2026-02-09T22:48:12Z",
         "time_to_merge": 2186,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7493,
+        "author": "mabartos",
+        "date_created": "2026-02-10T09:18:57Z",
+        "time_to_merge": 2629,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7494,
+        "author": "stefanprodan",
+        "date_created": "2026-02-10T10:02:49Z",
+        "time_to_merge": 1208,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7495,
+        "author": "lmilleri",
+        "date_created": "2026-02-10T11:33:04Z",
+        "time_to_merge": 680,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7496,
+        "author": "viveksinghggits",
+        "date_created": "2026-02-10T16:23:10Z",
+        "time_to_merge": 1732,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7497,
+        "author": "stubbi",
+        "date_created": "2026-02-11T07:39:16Z",
+        "time_to_merge": 2366,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7498,
+        "author": "gl-distribution-oc",
+        "date_created": "2026-02-11T09:14:35Z",
+        "time_to_merge": 3826,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7499,
+        "author": "gl-distribution-oc",
+        "date_created": "2026-02-11T09:31:19Z",
+        "time_to_merge": 3869,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 7503,
+        "author": "tbavelier",
+        "date_created": "2026-02-11T14:07:32Z",
+        "time_to_merge": 1496,
         "authorizer": "bot",
         "interaction": "none"
     }
